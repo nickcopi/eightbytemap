@@ -1,7 +1,7 @@
 {
 	"name":"Eight ByteMap",
 	"tags":["Visualization","Cyber"],
-	"description":"Represent an 8 bit value as a cool pattern.",
+	"description":"Represent an 8 byte value as a cool pattern.",
 	"embed":{
 		"width":800,
 		"height":600,
